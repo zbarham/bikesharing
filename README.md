@@ -15,35 +15,35 @@ The analysis began with acquiring the NYC Citibike data, stored in a CSV format.
 ## Results
 
 ### Visualization 1: Customer Overview
-![Customer Overview](Screenshots/Customer Type.png)
+ ![Customer Overview](Screenshots/Customer Type.png) 
 NYC Citibike has a large customer base of over 2.3 million, with the majority being subscribers to their service. 
 
 ### Visualization 2: Ride Start Locations
-![Ride Start Locations](Screenshots/Top Starting Locations.png)
+ ![Ride Start Locations](Screenshots/Top Starting Locations.png) 
 Many customers start their rides from lower Manhattan, suggesting a high demand in this area.
 
 ### Visualization 3: Ride Timings
-![Ride Timings](Screenshots/August Peak Hours.png)
+ ![Ride Timings](Screenshots/August Peak Hours.png) 
 While NYC Citibike has customers at all times of the day, the majority of rides occur during the day with peaks at the workday AM and PM rush hours. This indicates that the service is heavily used for commuting to and from work.
 
 ### Visualization 4: Ride Duration
-![Ride Duration](Screenshots/Checkout Times for Users Viz.png)
+ ![Ride Duration](Screenshots/Checkout Times for Users Viz.png) 
 Most bike trips are under 10 minutes, suggesting that the service is mainly used for short commutes.
 
 ### Visualization 5: User Data by Gender
-![User Data by Gender](Screenshots/Checkout Times by Gender Viz.png)
+ ![User Data by Gender](Screenshots/Checkout Times by Gender Viz.png) 
 Male customers form the majority, but the ride time is similar across genders. Interestingly, users who did not report their gender tend to have slightly longer trips.
 
 ### Visualization 6: Heatmap of Usage by Time
-![Heatmap of Usage by Time](Screenshots/Trips by Weekday for Each Hour - No Legend.png)
+ ![Heatmap of Usage by Time](Screenshots/Trips by Weekday for Each Hour - No Legend.png) 
 This heatmap shows that peak usage occurs at the start and end of the workday on weekdays. On weekends and Friday afternoons, there is more mid-day usage.
 
 ### Visualization 7: Heatmap of Usage by Gender
-![Heatmap of Usage by Gender](Screenshots/Trips by Gender (Weekday per Hour) Viz - No Legend.png)
+ ![Heatmap of Usage by Gender](Screenshots/Trips by Gender (Weekday per Hour) Viz - No Legend.png) 
 The heatmap of usage by gender shows similar trends for all users. However, users who did not report their gender show more usage during weekends.
 
 ### Visualization 8: User Type Usage
-![User Type Usage](Screenshots/User Trips by Gender by Weekday Viz - No Legend.png)
+ ![User Type Usage](Screenshots/User Trips by Gender by Weekday Viz - No Legend.png) 
 Separating usage between Subscribers and Customers, we see that users who did not report their gender are generally single-use customers. These users tend to use the service more during weekends, suggesting they may be tourists or occasional users.
 
 ## Summary
