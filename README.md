@@ -21,11 +21,12 @@ The analysis began with acquiring the NYC Citibike data, stored in a CSV format.
 NYC Citibike has a large customer base of over 2.3 million, with the majority being subscribers to their service. 
 
 ### Visualization 2: Ride Start Locations
- ![Ride Start Locations](Screenshots/Top Starting Locations.png) 
+![Screenshots/Top Starting Locations.png](https://github.com/zbarham/bikesharing/blob/main/Screenshots/Top%20Starting%20Locations.png)
+
 Many customers start their rides from lower Manhattan, suggesting a high demand in this area.
 
 ### Visualization 3: Ride Timings
-![Screenshots/August Peak Hours.png](Screenshots/August Peak Hours.png)
+![Screenshots/August Peak Hours.png](https://github.com/zbarham/bikesharing/blob/main/Screenshots/August%20Peak%20Hours.png)
 
 While NYC Citibike has customers at all times of the day, the majority of rides occur during the day with peaks at the workday AM and PM rush hours. This indicates that the service is heavily used for commuting to and from work.
 
