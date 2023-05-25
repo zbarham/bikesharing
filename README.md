@@ -15,7 +15,7 @@ The analysis began with acquiring the NYC Citibike data, stored in a CSV format.
 ## Results
 
 ### Visualization 1: Customer Overview
- ![Customer Overview](Screenshots/Customer Type.png) 
+ ![Customer Type](Screenshots/Customer Type.png) 
 NYC Citibike has a large customer base of over 2.3 million, with the majority being subscribers to their service. 
 
 ### Visualization 2: Ride Start Locations
