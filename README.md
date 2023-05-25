@@ -6,7 +6,7 @@
 The analysis aims to investigate NYC Citibike usage patterns and customer behaviors to inform business decisions. NYC Citibike is a popular bike-sharing service in New York City with over 2.3 million customers, including 1.9 million subscribers.
 
 ## Tableau public Story
-https://public.tableau.com/app/profile/zachary.barham/viz/bikesharingChallengeStory/bikesharingChallengeStory?publish=yes
+[Link to my Tableau Story](https://public.tableau.com/app/profile/zachary.barham/viz/bikesharingChallengeStory/bikesharingChallengeStory?publish=yes)
 
 ## Data Preparation
 
